@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745a34d0bd4da224f8b4b9a1ca42dabe, type: 3}
+  m_Name: Heart
+  m_EditorClassIdentifier: 
+  ItemName: Corazon
+  ItemImage: {fileID: 21300000, guid: 9510133e4b20114408168d5de984b6a7, type: 3}
+  ItemDescription: MotherHeart
+  Item3DModel: {fileID: 7796127814028176851, guid: 42a2d3a8ff4b2564dbda4bbcaa7bafb8, type: 3}

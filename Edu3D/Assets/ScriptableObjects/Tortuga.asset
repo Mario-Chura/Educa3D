@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745a34d0bd4da224f8b4b9a1ca42dabe, type: 3}
+  m_Name: Tortuga
+  m_EditorClassIdentifier: 
+  ItemName: Tortuga
+  ItemImage: {fileID: 21300000, guid: 7f79969714fbe7540bd905601244e978, type: 3}
+  ItemDescription: Tortuga
+  Item3DModel: {fileID: 482433926750421962, guid: 9956faca05bdfa048a73a3a97e75a504, type: 3}
